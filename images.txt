@@ -5,3 +5,4 @@ kitematic/minecraft
 tiptime/ttnode
 #支持指定架构
 
+codercom/code-server
