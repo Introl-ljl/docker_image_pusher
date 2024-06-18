@@ -7,3 +7,4 @@ tiptime/ttnode
 zerotier/zerotier-synology
 codercom/code-server
 cloudflare/cloudflared
+codercom/code-server
