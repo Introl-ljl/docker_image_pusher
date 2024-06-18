@@ -6,3 +6,4 @@ tiptime/ttnode
 #支持指定架构
 zerotier/zerotier-synology
 codercom/code-server
+cloudflare/cloudflared
