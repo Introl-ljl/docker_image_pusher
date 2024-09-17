@@ -9,3 +9,4 @@ codercom/code-server
 cloudflare/cloudflared
 codercom/code-server
 mondedie/flarum
+btpanel-baota
