@@ -10,3 +10,4 @@ cloudflare/cloudflared
 codercom/code-server
 mondedie/flarum
 dreamacro/clash
+whyour/qinglong
