@@ -12,3 +12,4 @@ mondedie/flarum
 dreamacro/clash
 whyour/qinglong
 pch18/baota
+btpanel/baota
