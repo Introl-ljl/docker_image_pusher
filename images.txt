@@ -17,3 +17,4 @@ cyberbolt/baota
 dmtc/baota
 sulinggg/openwrt:x86_64
 onething1/wxedge
+hanxi/xiaomusic
