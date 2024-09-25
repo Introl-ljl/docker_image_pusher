@@ -20,3 +20,4 @@ onething1/wxedge
 hanxi/xiaomusic
 idootop/mi-gpt
 haishanh/yacd
+laoyutang/clash-and-dashboard
