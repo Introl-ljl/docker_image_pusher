@@ -21,3 +21,4 @@ hanxi/xiaomusic
 idootop/mi-gpt
 haishanh/yacd
 laoyutang/clash-and-dashboard
+linuxserver/qbittorrent
